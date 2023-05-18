@@ -26,3 +26,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
   
 </div>
+
+---
+
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=trillzglobal)](https://github.com/anuraghazra/github-readme-stats)
