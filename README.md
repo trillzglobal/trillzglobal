@@ -29,4 +29,4 @@
 
 ---
 
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=trillzglobal)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trillzglobal)](https://github.com/anuraghazra/github-readme-stats)
