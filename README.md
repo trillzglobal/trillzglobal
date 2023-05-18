@@ -8,7 +8,10 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=trillzglobal&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trillzglobal&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 ---
+### :hammer_and_wrench: Languages and Tools :
 
 <div>
    <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original-wordmark.svg" title="Angular" alt="Angular" width="40" height="40"/>&nbsp;
@@ -29,4 +32,3 @@
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trillzglobal)](https://github.com/anuraghazra/github-readme-stats)
